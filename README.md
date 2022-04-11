@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Vishal
-- 👀 I’m interested in data analysis.
+- 👀 I’m interested in learning how data can be turned into useful insights for businesses.
+- :nerd_face: I love working with numbers and finding patterns.
 - 🌱 I’m currently learning on how to use Python for data analysis.
+- :robot: I love playing Chess.
 
 <!---
 VishallB/VishallB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
