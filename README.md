@@ -1,3 +1,5 @@
+# Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in learning how data can be turned into useful insights for businesses.
 - :nerd_face: I love working with numbers and finding patterns.
