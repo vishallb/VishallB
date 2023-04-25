@@ -12,8 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishallb)](https://www.linkedin.com/in/vishallb)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/vishallb/)](https://github.com/vishallb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishallb&layout=compact)](https://github.com/vishallb/github-readme-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vishallb)
 
 
