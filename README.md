@@ -18,11 +18,6 @@ I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about
 
 ----
 
-#### 📬 Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishallb)](https://www.linkedin.com/in/vishallb)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/vishallb/)](https://github.com/vishallb)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishallb)
 
 <!---
 VishallB/VishallB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
