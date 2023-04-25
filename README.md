@@ -16,9 +16,6 @@ I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about
 
 - :robot: In my free time, I enjoy playing chess, solving puzzles, and coding.
 
-----
-
-
 <!---
 VishallB/VishallB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
