@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="40px">
 
-I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about turning data into valuable insights that drive business growth. I have experience working with Python, SQL, Excel, and Power BI for data analysis.
+I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about turning data into valuable insights that drive business growth. I have experience working with Python, SQL, Excel, and Tableau for data analysis.
 
 ## Skills
 
@@ -8,7 +8,7 @@ I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about
 
 - **Excel**: I am proficient in using Excel for data analysis, including pivot tables, data validation, conditional formatting, and charting.
 
-- **Power BI**: I have experience using Power BI to create interactive dashboards and reports that visualize complex data in an easy-to-understand format.
+- **Tableau**: I have experience using Tableau to create interactive dashboards and reports that visualize complex data in an easy-to-understand format.
 
 ## Interests
 
