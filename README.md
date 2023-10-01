@@ -1,6 +1,10 @@
-# Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="40px">
+* 👋 Hi, I’m Vishal, a Data Analyst.
+* 🔧 I have a skillset for data analysis that includes SQL, Power BI, and Python.
+* :bar_chart: I enjoy transforming data into valuable insights and crafting effective storytelling.
+* :books: When I am not analyzing data, I'm probably playing chess or reading a book.
+* 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/vishallb/)
 
-I am Vishal, a data enthusiast, and aspiring data analyst. I am passionate about turning data into valuable insights that drive business growth. I have experience working with Python, SQL, Excel, and Tableau for data analysis.
+I've hosted my projects below which I've worked on, which involves various aspects such as data manipulation, analysis, wrangling and storytelling.
 
 <!---
 VishallB/VishallB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
