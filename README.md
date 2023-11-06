@@ -3,7 +3,7 @@
 * :bar_chart: I enjoy transforming data into valuable insights and crafting effective storytelling.
 * :books: When I am not analyzing data, I'm probably playing chess or reading a book.
 * 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/vishallb/)
-* :chart_with_upwards_trend: If you'd like to leave github and check out my dashboards, you can visit [here](https://www.novypro.com/profile_projects/weshallbe) 
+* :chart_with_upwards_trend: If you'd like to check out my Power BI work, you can visit [here](https://www.novypro.com/profile_projects/weshallbe) 
 
 I've pinned my projects below which I've worked on, which involves various aspects such as data manipulation, analysis, wrangling, visualization and storytelling.
 
